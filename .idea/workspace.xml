@@ -12,49 +12,11 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d50c864a-93c3-4f8b-bfd1-0fe080568024" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tauri.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/build.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/128x128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/128x128@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square107x107Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square142x142Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square150x150Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square284x284Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square30x30Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square310x310Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square44x44Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square71x71Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/Square89x89Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/StoreLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/icon.icns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/icons/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src-tauri/tauri.conf.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/vue.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Greet.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vite-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    <list default="true" id="d50c864a-93c3-4f8b-bfd1-0fe080568024" name="Changes" comment="feat：初始化修改项目">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src-tauri/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src-tauri/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Greet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Greet.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,8 +165,22 @@
       <workItem from="1698499388227" duration="112000" />
       <workItem from="1698501900303" duration="480000" />
       <workItem from="1698502397470" duration="10950000" />
-      <workItem from="1698712345186" duration="151000" />
+      <workItem from="1698712345186" duration="1110000" />
+      <workItem from="1699952655825" duration="1037000" />
+      <workItem from="1700440467859" duration="4000" />
+      <workItem from="1700877710241" duration="12000" />
+      <workItem from="1701942451189" duration="23000" />
+      <workItem from="1701952879492" duration="21000" />
     </task>
+    <task id="LOCAL-00001" summary="feat：初始化修改项目">
+      <option name="closed" value="true" />
+      <created>1698713548275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698713548275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +196,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat：初始化修改项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat：初始化修改项目" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

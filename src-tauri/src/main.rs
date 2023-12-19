@@ -10,12 +10,12 @@ fn greet(name: &str) -> String {
     format!("Hello, {}! You've been greeted from Rust!", name)
 }
 
-/*fn main() {
+fn main() {
     tauri::Builder::default()
         .invoke_handler(tauri::generate_handler![greet])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");
-}*/
+}
 
 pub struct RedisClient {
     connection: Connection,
@@ -30,17 +30,17 @@ impl RedisClient {
     }
 }
 
-fn main() {
-    get_keys();
-}
-
-fn get_keys() {
-    let mut redis_client: RedisClient = RedisClient::init();
-
-    //const REDIS_CLIENT: RedisClient = RedisClient::init();
-
-    let keys: Vec<String> = redis_client.connection.keys("*").unwrap();
-    for key in keys {
-        println!("{key}");
-    }
-}
+// fn main() {
+//     get_keys();
+// }
+//
+// fn get_keys() {
+//     let mut redis_client: RedisClient = RedisClient::init();
+//
+//     //const REDIS_CLIENT: RedisClient = RedisClient::init();
+//
+//     let keys: Vec<String> = redis_client.connection.keys("*").unwrap();
+//     for key in keys {
+//         println!("{key}");
+//     }
+// }
